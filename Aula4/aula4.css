@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    background-image: url(CapaLinkedin.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+legend, label,  button {
+    color: white
+}
+button {
+    background-color: gray;
+    border-radius: 15px;
+    justify-content: center;
+    margin-top: -18px;
+    margin-right: 2px;
+}
+fieldset {
+    margin-left: auto;
+    margin-right: auto;
+    width: 175px;
+    height: 140px;
+    border-radius: 15px;
+    background-color: black;
+}
+#btnId{
+    display: flex;
+    justify-content: end;
+}
+input {
+    color: black;
+}
+#geralForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
